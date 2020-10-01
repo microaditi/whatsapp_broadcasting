@@ -1,20 +1,20 @@
-# whatsapp_broadcasting
-Python script to automatically send Whatsapp message to many people without saving their number. Using Selenium webdriver.
+# Whatsapp Broadcasting
+A Python script to automatically send Whatsapp messages to as many people without having to save their respective numbers. Using Selenium webdriver.
 
 TO DO:
 
-Install requires libraries: selenium and puautogui
+This Install requires the following libraries: selenium and puautogui
 
-Download chromedriver and extract it in same folder where whatsapp_broadcasting.py is in. Note: Chrome version.
+Download chromedriver and extract it in the same folder where whatsapp_broadcasting.py is kept . Note: Only on Chrome version.
 
 Run the script. 
 
-Scan QR Code.
+Scan the QR Code.
 
 Enter the message you want to send in the shell.
 
-Enter the phone numbers (XXYYYYYYYYYY where XX:country code YYYYYYYYYY phone number). Or enter the phone number in 'number.txt' file 
+Enter the phone numbers with format (XXYYYYYYYYYY where XX:country code YYYYYYYYYY phone number). Or enter the phone number directly in 'number.txt' file 
 
-followed by enter. NOTE: Do not delete 'END' in 'number.txt'
+followed by enter. NOTE: Kindly Do not delete 'END' in 'number.txt'
 
-Sit back and relex.
+Now Sit back and relax.
